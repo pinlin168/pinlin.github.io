@@ -1,0 +1,25 @@
+{
+  "webcredentials": {
+    "apps": [
+      "BCUYJQB9VH.io.bchat.app"
+    ]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "BCUYJQB9VH.io.bchat.app",
+        "paths": ["*"]
+      },
+      {
+        "appID": "BCUYJQB9VH.io.bchat.app.Clip",
+        "paths": ["*"]
+      }
+    ]
+  },
+  "appclips": {
+    "apps": [
+      "BCUYJQB9VH.io.bchat.app.Clip"
+    ]
+  }
+}
